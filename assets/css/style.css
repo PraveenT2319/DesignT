@@ -19,7 +19,7 @@ CSS Table of content:-
 4. Before After Area
 5. client Area
 6. Portfolio Area
-7. Work Process Area
+7. Work Process rea
 8. Get Qoute Area
 9. Pricing Area
 10. Core Feature Area
@@ -75,7 +75,7 @@ body {
   background-color: #a3cc01; }
 
 .container {
-  max-width: 1200px; }
+  max-width: 3000px; }
 
 .ul-li ul {
   margin: 0;
@@ -565,7 +565,7 @@ select:visited {
   width: 100%;
   z-index: 9;
   position: absolute;
-  padding-bottom: 10px; }
+background-color: #fefefe; }
   .header-style-two .header-top,
   .header-style-three .header-top {
     padding: 8px 0px 10px;
@@ -592,7 +592,7 @@ select:visited {
     .header-style-two .site-logo img,
     .header-style-three .site-logo img {
       width: 220px;
-      margin-top: -10px; }
+      margin-top: -20px; }
   .header-style-two .header-main-menu,
   .header-style-three .header-main-menu {
     padding-top: 40px; }
@@ -601,7 +601,7 @@ select:visited {
     margin-left: 80px; }
     .header-style-two .main-navigation-area li a,
     .header-style-three .main-navigation-area li a {
-      color: #fff;
+      color: #a1669c;
       font-size: 18px;
       font-weight: 700;
       padding-bottom: 25px; }
@@ -625,15 +625,16 @@ select:visited {
         color: #fff !important; }
 
 .header-style-three .header-main-menu {
-  padding-top: 60px; }
-
+  padding-top: 45px;
+  margin-bottom: 15px; }
 .header-style-three .sidebar-menu-toggle {
-  top: 50px; }
+  top: 30px; }
   .header-style-three .sidebar-menu-toggle i {
     color: #fff; }
 
 .header-style-three.header-style-inner .sidebar-menu-toggle i {
-  color: #a3cc01; }
+  color: #a3cc01;
+}
 
 .dark-home .header-style-one {
   background-color: #323232; }
@@ -643,7 +644,8 @@ select:visited {
     color: #fff; }
 
 .header-inner .sidebar-menu-toggle i {
-  color: #a3cc01; }
+  color: #a3cc01;
+  margin-top: 10px; }
 
 .header-inner .str-mobile_menu_button i {
   color: #a3cc01 !important; }
@@ -1798,7 +1800,7 @@ select:visited {
     line-height: 1.417;
     padding-bottom: 22px; }
   .blog-img-text .blog-text .read-more {
-    color: #e0e0e0;
+    color: #000;
     font-weight: 700;
     -webkit-transition: .3s all ease-in-out;
     -o-transition: .3s all ease-in-out;
@@ -1810,11 +1812,11 @@ select:visited {
       height: 1px;
       left: 0;
       position: absolute;
-      background-color: #e0e0e0; }
+      background-color: #a3cc01; }
     .blog-img-text .blog-text .read-more:hover {
       color: #a3cc01; }
   .blog-img-text .blog-text .wish-ht {
-    color: #e4e4e4; }
+    color: #dd0808; }
 
 .blog-img-text:hover .blog-img:after {
   opacity: .8; }
@@ -3206,7 +3208,7 @@ select:visited {
     content: '';
     height: 100%;
     position: absolute;
-    background-image: url(../img/about/fq-bg.jpg);
+    background-image: url(../img/index8.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; }
@@ -3322,7 +3324,7 @@ select:visited {
 /*(19)- Breadcrumb area*/
 /*----------------------------------------------------*/
 .breadcrumb-section {
-  padding: 235px 0px 130px;
+  padding: 300px 0px 200px;
   position: relative; }
   .breadcrumb-section::after {
     content: '';
@@ -3336,7 +3338,7 @@ select:visited {
     position: relative;
     z-index: 3; }
     .breadcrumb-section .breadcrumb-content .breadcrumb-title {
-      color: #fff;
+      color: #000;
       font-size: 72px;
       font-weight: 700; }
     .breadcrumb-section .breadcrumb-content .breadcrumb {
@@ -3347,9 +3349,9 @@ select:visited {
         padding: 0px 10px;
         position: relative; }
         .breadcrumb-section .breadcrumb-content .breadcrumb li a {
-          color: #fff; }
+          color: #000; }
       .breadcrumb-section .breadcrumb-content .breadcrumb .breadcrumb-item.active {
-        color: #fff; }
+        color: #000; }
       .breadcrumb-section .breadcrumb-content .breadcrumb .breadcrumb-item + .breadcrumb-item::before {
         top: 5px;
         left: -1px;
@@ -3358,7 +3360,7 @@ select:visited {
         content: "";
         height: 14px;
         position: absolute;
-        background-color: #fff; }
+        background-color: #000; }
 
 /*---------------------------------------------------- */
 /*(20)- Mission area*/
@@ -4942,7 +4944,9 @@ select:visited {
     padding-top: 25px; }
   .header-style-two .str-mobile_menu_button,
   .header-style-three .str-mobile_menu_button {
-    right: 15px; }
+    right: 15px;  
+    margin-top: 15px;
+  }
     .header-style-two .str-mobile_menu_button i,
     .header-style-three .str-mobile_menu_button i {
       color: #cbbc9d; }
@@ -6171,8 +6175,8 @@ select:visited {
       color: #d60606;
       cursor: pointer;
       top: 15px;
-      height: 20px;
-      width: 20px;
+      height: 50px;
+      width: 50px;
       left: 15px;
       font-size: 20px;
       position: absolute; }
@@ -6655,8 +6659,7 @@ select:visited {
   /* ==============================================================
      ADMISSION FORM RULES 
      ============================================================== */
-  .admission-form_rules {
-    padding: 60px 0; }
+
     .admission-form_rules h2 {
       font-weight: 700;
       margin: 0 0 28px; }
@@ -6664,14 +6667,12 @@ select:visited {
       line-height: 1.8; }
   
   .admission-form_listed {
-    padding: 66px 0 0;
     margin: 0; }
     .admission-form_listed li {
       list-style: none;
       background: url(../img/right-icon.png) no-repeat;
       font-size: 17px;
       color: #cbb58b;
-      padding-left: 30px;
       line-height: 2; }
   
   @media (max-width: 768px) {

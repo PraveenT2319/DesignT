@@ -8,7 +8,7 @@ Color Code
 ===========*/
 .arc5-title-area span {
   text-transform: uppercase;
-  color: #ff5b2e;
+  color: #a04098;
   font-family: "Oswald", sans-serif;
   font-weight: 500;
   display: block;
@@ -24,13 +24,13 @@ Color Code
   .arc5-headline .seperator hr {
     width: 30px;
     border: none;
-    border-bottom: 5px solid #ff5b2e; }
+    border-bottom: 5px solid #a04098; }
 
 .arc5-template-btn a {
   width: 170px;
   padding: 15px 0;
   text-align: center;
-  background-color: #ff5b2e;
+  background-color: #a04098;
   color: #ffffff;
   font-family: "Oswald", sans-serif;
   font-weight: 500;

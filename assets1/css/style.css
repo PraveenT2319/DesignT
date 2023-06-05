@@ -42,7 +42,7 @@ Color Code
 ===========*/
 .arc5-title-area span {
   text-transform: uppercase;
-  color: #ff5b2e;
+  color: #a04098;
   font-family: "Oswald", sans-serif;
   font-weight: 500;
   display: block;
@@ -58,13 +58,13 @@ Color Code
   .arc5-headline .seperator hr {
     width: 30px;
     border: none;
-    border-bottom: 5px solid #ff5b2e; }
+    border-bottom: 5px solid #a04098; }
 
 .arc5-template-btn a {
   width: 170px;
   padding: 15px 0;
   text-align: center;
-  background-color: #ff5b2e;
+  background-color: #a04098;
   color: #ffffff;
   font-family: "Oswald", sans-serif;
   font-weight: 500;
@@ -103,15 +103,15 @@ Color Code
 
 ::-moz-selection {
   color: #ffffff;
-  background-color: #ff5b2e; }
+  background-color: #a04098; }
 
 ::selection {
   color: #ffffff;
-  background-color: #ff5b2e; }
+  background-color: #a04098; }
 
 ::-moz-selection {
   color: #ffffff;
-  background-color: #ff5b2e; }
+  background-color: #a04098; }
 
 .container {
   max-width: 1200px; }
@@ -301,8 +301,8 @@ select:visited {
 
 @-webkit-keyframes ripple-animation {
   0% {
-    -webkit-box-shadow: 0 0 0 0 #ff5b2e;
-    box-shadow: 0 0 0 0 #ff5b2e; }
+    -webkit-box-shadow: 0 0 0 0 #a04098;
+    box-shadow: 0 0 0 0 #a04098; }
   50% {
     -webkit-box-shadow: 0 0 0 20px rgba(1, 93, 199, 0);
     box-shadow: 0 0 0 20px rgba(1, 93, 199, 0); }
@@ -312,8 +312,8 @@ select:visited {
 
 @keyframes ripple-animation {
   0% {
-    -webkit-box-shadow: 0 0 0 0 #ff5b2e;
-    box-shadow: 0 0 0 0 #ff5b2e; }
+    -webkit-box-shadow: 0 0 0 0 #a04098;
+    box-shadow: 0 0 0 0 #a04098; }
   50% {
     -webkit-box-shadow: 0 0 0 20px rgba(1, 93, 199, 0);
     box-shadow: 0 0 0 20px rgba(1, 93, 199, 0); }
@@ -341,7 +341,7 @@ select:visited {
       .arc5-service-section .owl-dots .owl-dot span {
         width: 10px;
         height: 10px;
-        background-color: #ff5b2e;
+        background-color: #a04098;
         border-radius: 50%;
         margin-right: 10px;
         display: inline-block; }
@@ -399,7 +399,7 @@ select:visited {
     background-color: rgba(0, 0, 0, 0.3);
     z-index: 1; }
   .arc5-blog-column .arc5-blog-date {
-    background-color: #ff5b2e;
+    background-color: #a04098;
     padding: 8px 20px;
     text-align: center;
     color: #fff;
@@ -442,7 +442,7 @@ select:visited {
     padding: 10px 15px;
     text-align: center;
     color: #fff;
-    background-color: #ff5b2e;
+    background-color: #a04098;
     cursor: pointer; }
     .arc5-team-column .arc5-toggle span {
       display: block;
@@ -474,7 +474,7 @@ select:visited {
       width: 44px;
       height: 44px;
       margin-top: 6px;
-      background-color: #ff5b2e;
+      background-color: #a04098;
       color: #fff;
       text-align: center;
       line-height: 40px; }
@@ -489,7 +489,7 @@ select:visited {
     position: absolute;
     bottom: -45px;
     left: 0;
-    background-color: #ff5b2e;
+    background-color: #a04098;
     width: 90%;
     padding: 20px;
     color: #fff; }
@@ -551,7 +551,7 @@ select:visited {
       .arc5-testimonial-slider .owl-dots .owl-dot span {
         width: 10px;
         height: 10px;
-        background-color: #ff5b2e;
+        background-color: #a04098;
         border-radius: 50%;
         margin-right: 10px;
         display: inline-block; }
@@ -564,7 +564,7 @@ select:visited {
       .arc5-testimonial-slider .single-item .arc5-tst-content {
         padding-right: 0; } }
     .arc5-testimonial-slider .single-item .arc5-tst-content span {
-      color: #ff5b2e;
+      color: #a04098;
       font-size: 48px;
       margin-right: 10px; }
     .arc5-testimonial-slider .single-item .arc5-tst-content h2 {
@@ -617,7 +617,7 @@ select:visited {
     .arc5-roadmap-column .roadmap-column-top .roadmap-icon {
       width: 90px;
       height: 90px;
-      background-color: #ff5b2e;
+      background-color: #a04098;
       text-align: center;
       color: #fff;
       margin: 0 auto; }
@@ -707,7 +707,7 @@ select:visited {
 
 .arc5-mission-right .arc5-mission-column span {
   font-size: 50px;
-  color: #ff5b2e; }
+  color: #a04098; }
 
 .arc5-mission-right .arc5-mission-designation {
   display: -webkit-box;
@@ -751,7 +751,7 @@ select:visited {
       margin-bottom: 40px; } }
   .arc5-mission-list .icon-container span {
     font-size: 45px;
-    color: #ff5b2e;
+    color: #a04098;
     margin-right: 20px; }
   .arc5-mission-list .arc5-countdown {
     position: relative;
@@ -776,7 +776,7 @@ select:visited {
           top: 0; } }
 
 .arc5-mission-experience {
-  background-color: #ff5b2e;
+  background-color: #a04098;
   display: inline-block;
   position: absolute;
   right: 0;
@@ -868,7 +868,7 @@ select:visited {
       clear: both; }
     .arc5-video-popup .arc5-video-play-btn a {
       margin-right: 10px;
-      background-color: #ff5b2e;
+      background-color: #a04098;
       color: #fff;
       width: 60px;
       height: 60px;
@@ -992,7 +992,7 @@ select:visited {
     -o-transition: 0.3s;
     transition: 0.3s; }
     .arc5-footer-widget .arc5-footer-social a:hover {
-      color: #ff5b2e; }
+      color: #a04098; }
   .arc5-footer-widget .arc5-footer-nav ul li + li {
     margin-top: 8px; }
   .arc5-footer-widget .arc5-footer-nav ul li a {
@@ -1086,13 +1086,13 @@ select:visited {
     font-size: 15px !important; }
     .header-main-menu .dropdown-menu a:hover {
       color: #fff;
-      background-color: #ff5b2e; }
+      background-color: #a04098; }
 
 .header-style-five {
   top: 0;
   width: 100%;
   z-index: 10;
-  padding-top: 45px;
+  padding-top: 15px;
   position: absolute; }
   .header-style-five .dropdown:before {
     color: #fff;
@@ -1119,7 +1119,7 @@ select:visited {
     line-height: 48px;
     margin-left: 50px;
     font-family: "Oswald", sans-serif;
-    background-color: #ff5b2e; }
+    background-color: #209A47; }
     .header-style-five .header-cta-btn a {
       color: #fff;
       width: 100%;
@@ -1240,7 +1240,7 @@ select:visited {
   display: none;
   cursor: pointer;
   line-height: 40px;
-  color: #ff5b2e;
+  color: #a04098;
   text-align: center;
   font-size: 30px; }
   @media (max-width: 991.98px) {
