@@ -50,7 +50,14 @@ Color Code
 
 .arc5-title-area p {
   margin-top: 20px; }
-
+  
+  .seperator1{
+    align-items: left;
+    width: 30px;
+    border: none;
+    border-bottom: 5px solid #a04098;
+    margin-left:65px;
+  }
 .arc5-headline .seperator {
   display: block;
   text-align: center;
@@ -165,6 +172,9 @@ img {
 
 section {
   overflow: hidden; }
+  .para{
+    text-align: left;
+  }
 
 button {
   cursor: pointer; }
@@ -529,8 +539,7 @@ select:visited {
     @media (max-width: 991.98px) {
       .arc5-testimonial-section .arc5-overlay-bg {
         padding-bottom: 110px; } }
-  .arc5-testimonial-section .arc5-title-area {
-    text-align: center; }
+        
 
 .arc5-testimonial-slider {
   margin-top: 60px; }
@@ -604,7 +613,7 @@ select:visited {
         padding: 80px 0; } }
   .arc5-roadmap-section .arc5-roadmap-title {
     margin-bottom: 60px;
-    text-align: center; }
+     }
 
 .arc5-roadmap-column {
   padding: 50px 30px;
